@@ -1,4 +1,4 @@
-# y
+# vue-eat-what
 
 > A Vue.js project
 
