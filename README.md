@@ -1,30 +1,18 @@
 # vue-eat-what
 
-> A Vue.js project
+> 高仿饿了么的 Singel-Page-APP (SAP)，采用的数据为从饿了么上面逆向爬取的数据
 
-## Build Setup
+## 项目概览
+![](docs\home.jpg)
+
+## 安装步骤
 
 ``` bash
-# install dependencies
 npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
 # run all tests
 npm test
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
